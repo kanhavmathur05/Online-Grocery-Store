@@ -1,4 +1,4 @@
-<!--
+﻿<!--
 author: W3layouts
 author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
@@ -351,3 +351,4 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //main slider-banner --> 
 </body>
 </html>
+another change
